@@ -1,0 +1,23 @@
+
+---
+
+### **2. 29_QuickEndpointMonitor**  
+**Description:**  
+Monitors one or more URLs and logs response times and status codes.
+
+#### **README.md**
+```markdown
+# QuickEndpointMonitor - HTTP Service Health Checker
+
+QuickEndpointMonitor is a simple tool for checking availability and response latency of HTTP endpoints.
+
+## Features
+- Multi-endpoint support  
+- Shows response time + HTTP code  
+- Clean CLI output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_QuickEndpointMonitor.git
+cd 29_QuickEndpointMonitor
+python monitor.py
