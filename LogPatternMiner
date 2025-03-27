@@ -1,0 +1,23 @@
+
+---
+
+### **3. 29_LogPatternMiner**  
+**Description:**  
+Parses log files to detect repeating errors or unusual activity bursts.
+
+#### **README.md**
+```markdown
+# LogPatternMiner - System Log Pattern Finder
+
+LogPatternMiner identifies frequently occurring lines and flags common or critical errors in log data.
+
+## Features
+- Frequency breakdown  
+- Works with any plain-text log  
+- Fast parsing logic  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LogPatternMiner.git
+cd 29_LogPatternMiner
+python analyze.py
