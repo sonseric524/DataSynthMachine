@@ -1,0 +1,23 @@
+
+---
+
+### **4. 29_LiveMetricRenderer**  
+**Description:**  
+Displays real-time streaming data as a continuously updating chart.
+
+#### **README.md**
+```markdown
+# LiveMetricRenderer - Real-Time Data Graphing
+
+LiveMetricRenderer is a tool that visualizes incoming numeric values with a real-time line chart.
+
+## Features
+- Real-time animated chart  
+- Adjustable update rate  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LiveMetricRenderer.git
+cd 29_LiveMetricRenderer
+python visualize.py
